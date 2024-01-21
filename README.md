@@ -1,0 +1,21 @@
+TO RUN THE APP: 
+
+STEP 1: ADD YOUR MYSQL DATABASE CREDENTIALS 
+STEP 2: UNCOMMENT THE TWO FUNCITONS INSIDE THE BACKEND/SERVER.JS FOLDER 
+
+          createTableIfNotExist(name); --> TO CREATE THE DATABASE TABLE 
+          
+          insertTableData(name); --> TO INSERT THE DATA INTO THE CREATED TABLE 
+
+STEP 3: NAVIGATE IN YOUR TERMINAL TO  /FRONTEND FOLDER AND RUN 
+        "npm start" 
+
+
+THIS SHOWS FIRST TASK:
+![Screenshot 2024-01-21 235242](https://github.com/Codemigod-666/basicCRUD/assets/123239548/5b935a60-335e-4045-a988-01bf4bb0f580)
+
+THIS SHOWS THE SECOND TASK
+![Screenshot 2024-01-21 235254](https://github.com/Codemigod-666/basicCRUD/assets/123239548/5035e645-1b3b-4af8-9f06-0427ac3da8b8)
+
+
+THIS SHOWS THE THIRD TASK ![Screenshot 2024-01-21 235302](https://github.com/Codemigod-666/basicCRUD/assets/123239548/ca5ad4cc-3754-4a95-b4d8-9a0279627f48)
